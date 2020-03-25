@@ -13,7 +13,7 @@
 
 ### Phase I: Dream
 
-### Phase II: Buil
+### Phase II: Build
 
 #### 1 (9a-12p)
 - Allie: Draft project brief and start tracking project tasks
@@ -37,8 +37,6 @@
 - Allie: Prepare points distribution for hackathon participants
 - Eugene: Finalize integration of web app's front end and back end
 - Eugene: Move web app to final launch location: http://www.vamacreative.com/splashscreenmaker/
-
-#### 1
 
 ## Project Team
 
