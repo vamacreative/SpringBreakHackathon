@@ -5,7 +5,7 @@
 ## Event resources
 - Github: https://www.github.com/vamacreative/SpringBreakHackathon
 - Hackathon web hub: http://www.Art64X.com
-- Project website: http://www.vamacreative/splashscreenmaker/
+- Project website: http://www.vamacreative.com/splashscreenmaker/
 
 ## Project details
 
